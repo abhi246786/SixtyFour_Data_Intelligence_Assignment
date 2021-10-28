@@ -501,4 +501,4 @@ so you can use ```user.refresh_from_db()``` after saving the form
 
 This is it. We can extend our model by using the ```smtp``` as email backend that 
 will actually send email to the email provided by the user but it requires some more
-settings to be defined in the **settings.py** file. For more details visit [docs](https://docs.djangoproject.com/en/2.1/topics/email/)
+settings to be defined in the **settings.py** file.
