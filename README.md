@@ -1,11 +1,4 @@
-# Django-Signup
-Creating a simple sign up view and then moving onto more advanced sign up view with profile model and confirmation mail
-
-**I have also added a location field in custom profile model and stored the 
-actual location (city, country code) of user using API, a little javascript and 
-python without letting user know about it. For a tutorial on using that API checkout my [repo](https://github.com/Alexmhack/django_weather_app)**
-
-In this tutorial we will 
+In this it includes- 
 
 1. Create basic sign up view
 2. Create sign up form with extra fields
